@@ -1,0 +1,12 @@
+*.swp
+*.iml
+.idea/
+bin/
+mods/
+target/
+.classpath
+.settings
+.project
+dynjs-linker.log
+nodyn.log
+nodyn-standalone/bin/*
